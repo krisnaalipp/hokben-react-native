@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Black Miso Chicken",
+    "description": "お得なセット",
+    "price": 12000,
+    "userMongoId": "635f8a6566a7b3de9581724b",
+
+    "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/0f1f31f982dd01ebaa05ea6adbd645c7-1660011179927",
+    "CategoryId": 3
+  },
+  {
+    "id": 2,
+    "name": "Mini Bowl Kani Roll",
+    "description": "ほかべん祭り",
+    "price": 12000,
+    "userMongoId": "635f8a6566a7b3de9581724b",
+
+    "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/f3ec3ec495dbfd7ea35589b585957447-1660020780593",
+    "CategoryId": 3
+  },
+  {
+    "id": 3,
+    "name": "Mini Bowl Takoyaki",
+    "description": "お得なセット",
+    "price": 12000,
+    "userMongoId": "635f8a6566a7b3de9581724b",
+
+    "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/d2d16fde1da4a672fae5935b9f85109f-1660020822384",
+    "CategoryId": 3
+  },
+  {
+    "id": 4,
+    "name": "Bento Special 1",
+    "description": "ほかべん祭り",
+    "price": 12000,
+    "userMongoId": "635f8a6566a7b3de9581724b",
+
+    "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/80d31dbc49226ec90929f330ef995469-1660019833554",
+    "CategoryId": 1
+  },
+  {
+    "id": 5,
+    "name": "Chicken Yakiniku",
+    "description": "ほかべん祭り",
+    "price": 12000,
+    "userMongoId": "635f8a6566a7b3de9581724b",
+
+    "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/85b23c671343102e25a090b5c9bdcff8-1660019707551",
+    "CategoryId": 2
+  },
+  {
+    "id": 6,
+    "name": "Value Set",
+    "description": "キッズ弁当",
+    "price": 12000,
+    "userMongoId": "635f8a6566a7b3de9581724b",
+
+    "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/86ccf8de402a1ec301675d8f410bcd26-1660019591570",
+    "CategoryId": 4
+  },
+  {
+    "id": 7,
+    "name": "HFC 9 pcs",
+    "description": "炸子から揚げ",
+    "price": 12000,
+    "userMongoId": "635f8a6566a7b3de9581724b",
+
+    "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/4a275963ddde063d0b03a6163b55e235-1660011324573",
+    "CategoryId": 4
+  },
+  {
+    "id": 8,
+    "name": "Premium Set Beef",
+    "description": "鶏の手羽",
+    "price": 12000,
+    "userMongoId": "635f8a6566a7b3de9581724b",
+    "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/menu/e67b22036abce714d34627611d8bf6bc-1660019556051",
+    "CategoryId": 4
+  },
+  {
+    "id": 9,
+    "name": "Kidzu Bento",
+    "description": "ほかべん祭り",
+    "price": 12000,
+    "userMongoId": "635f8a6566a7b3de9581724b",
+    "imgUrl": "https://hokben-images.s3.ap-southeast-3.amazonaws.com/img_assets/menu/KIDZU-BENTO-3_1643939470868.jpg  ",
+    "CategoryId": 5
+  }
+]

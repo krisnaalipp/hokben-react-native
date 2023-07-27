@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Onion",
+    "ItemId": 1
+  },
+  {
+    "name": "Beef Yakiniku",
+    "ItemId": 2
+  },
+  {
+    "name": "Rice",
+    "ItemId": 3
+  },
+  {
+    "name": "Egg",
+    "ItemId": 4
+  },
+  {
+    "name": "Chicken",
+    "ItemId": 3
+  },
+  {
+    "name": "Salad",
+    "ItemId": 2
+  }
+]
